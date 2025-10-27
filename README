@@ -1,0 +1,3 @@
+trian.cv is the data the model trains on
+
+test.cv is the data which the model accuratley operates on
